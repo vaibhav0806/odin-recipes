@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+    line-height: 150%;
+    font-size: 20px;
+    color: #8e4d00;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #f97f00;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.image {
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #b25a00;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+
